@@ -1,2 +1,2 @@
 # heyubo
-//不会用
+不会用github
